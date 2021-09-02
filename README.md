@@ -1,2 +1,3 @@
 # ETG-Skill_India_Internship-IMS
-Inventory Management system as part of my Internship. 
+
+A project on Inventory Management system as part of my Internship. 
