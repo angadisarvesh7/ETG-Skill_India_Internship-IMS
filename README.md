@@ -8,9 +8,9 @@ The IMS has 2 modes
 
 1. Billing
      As part of the bill you get the 
-        1.Name of the product
-        2.Rate
-        3.Quantity
+        1.Name of the product\n
+        2.Rate\n
+        3.Quantity\n
         4.Total(Quantity*Rate)
 2. Admin
  	As part of the admin menu
