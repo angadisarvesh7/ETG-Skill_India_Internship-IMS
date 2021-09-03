@@ -23,8 +23,11 @@ The IMS has 2 modes
 
 	As part of the admin menu
 	   
-	   1.You can add to the quantity of existing Inventory
+	   1.Add items to the inventory
+	   
+	   2.You can add to the quantity of existing item in the Inventory
     	   
-	   2.You can remove from the quantity of existing Inventory
+	   3.You can remove from the quantity of existing item in the Inventory
 
 The Inventory is updated everytime the a billing or a change is made to the inventory by admin.
+A record of every sale is maintained in the Sales.txt file.
