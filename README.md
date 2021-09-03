@@ -3,7 +3,9 @@
 A project on Inventory Management system as part of my Internship.
 
 The IMS has 2 modes
+
 1.Billing
+
 2.Admin
 
 1. Billing
@@ -13,7 +15,7 @@ The IMS has 2 modes
      
      	2.Rate
      
-     	3.Quantity
+     	3.Quantity Bought
      
      	4.Total(Quantity*Rate)
 2. Admin
