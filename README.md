@@ -30,4 +30,5 @@ The IMS has 2 modes
 	   3.You can remove from the quantity of existing item in the Inventory
 
 The Inventory is updated everytime the a billing or a change is made to the inventory by admin.
+
 A record of every sale is maintained in the Sales.txt file.
