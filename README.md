@@ -9,6 +9,7 @@ The IMS has 2 modes
 2.Admin
 
 1. Billing
+
      As part of the bill you get the
      
      	1.Name of the product
@@ -19,7 +20,8 @@ The IMS has 2 modes
      
      	4.Total(Quantity*Rate)
 2. Admin
- 	As part of the admin menu
+
+	As part of the admin menu
 	   
 	   1.You can add to the quantity of existing Inventory
     	   
