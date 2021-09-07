@@ -31,4 +31,4 @@ The IMS has 2 modes
 
 The Inventory is updated everytime the a billing or a change is made to the inventory by admin.
 
-A record of every sale is maintained in the Sales.txt file.
+A record of every sale is maintained in the Sales.json file.
